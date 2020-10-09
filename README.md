@@ -1,5 +1,5 @@
 # Flappy_Man
-**about** :a 2D game using Java Swing and MYSQL database 
+**about** :a 2D game using Java Swing Graphical interface and MYSQL database 
 
 ## Game play 
 
